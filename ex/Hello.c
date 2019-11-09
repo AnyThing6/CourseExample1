@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello");
+	printf("Hello from the other side");
 	return 0;
 }
